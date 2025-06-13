@@ -1,0 +1,14 @@
+title: write
+description: Test description for the Jekyll site.
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optional: Custom navigation
+header_pages:
+  - index.md
+  - about.md
